@@ -9,7 +9,7 @@ variable "aws_akey" {
 }
 
 variable "aws_skey" {
-  description = "AWS Secret key"
+  description = "AWS Access Secret key"
 }
 
 variable "ami_image" {
