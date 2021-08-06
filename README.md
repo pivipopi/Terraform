@@ -18,3 +18,17 @@
 - Runs > Actions
   - 실행하는 사유를 적은 뒤 시작을 누른다.
   - plan이 끝나면 Confirm & Apply를 물어보는데, 맞다면 okay를 눌러 배포를 한다.
+
+# 디렉토리 구조
+```
+.
+├── data_source.tf
+├── local.tf
+├── main.tf
+├── my_sshkey
+├── my_sshkey.pub
+├── output.tf
+├── providr.tf
+├── security-group.tf
+└── variable.tf
+```
