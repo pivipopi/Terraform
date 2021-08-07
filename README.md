@@ -25,7 +25,6 @@
 ├── data_source.tf
 ├── local.tf
 ├── main.tf
-├── my_sshkey
 ├── output.tf
 ├── providr.tf
 ├── security-group.tf
