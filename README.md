@@ -26,7 +26,6 @@
 ├── local.tf
 ├── main.tf
 ├── my_sshkey
-├── my_sshkey.pub
 ├── output.tf
 ├── providr.tf
 ├── security-group.tf
